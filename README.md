@@ -1,5 +1,5 @@
 # PlutoNotebooks
-Notebooks with Pluto
+Notebooks with [Pluto](https://plutojl.org/)
 
 Folder `scalarizingFunction`:
 - the weighted Tchebychev scalarizing function
