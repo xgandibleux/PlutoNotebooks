@@ -38,7 +38,7 @@ Basic animation showing the points accessed by planar parallel 5R robot and the 
 
 ---- 
 
-Folder `AutonomousMobileRobotics` (stable; simple illustration):
+Folder `AutonomousMobileVehicles` (stable; simple illustration):
 - 5 statics paths of robots are given
 - display the move of robots, identify and display the collisions
 
